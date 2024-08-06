@@ -13,5 +13,5 @@ While I’m dedicated to growing in the data domain, I continue to pursue freela
 - Graphic Design
 - UI/UX Design
 - Video Editing
-- 
+  
 Let’s connect and explore how we can leverage data to drive impactful decisions! 🌟
