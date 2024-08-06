@@ -1,21 +1,17 @@
-🎨 Graphic Designer | 🎬 Video Editor | 💻 Frontend Web Developer (Newbie 🐣) 
+Aspiring Data Engineer | Business Intelligence Enthusiast | Data Analyst in Training
 
-Hey there! 👋 I'm Ashish Vishwakarma, a creative soul with a passion for bringing ideas to life. 🚀
+Hi, I'm Ashish! 🚀 I'm currently immersing myself in Data Engineering and Business Intelligence, with a focus on building my skills in SQL, NoSQL, Python, NumPy, Pandas, Seaborn, Matplotlib, Excel, Power BI, and Looker. I’m also actively learning advanced technologies like Snowflake, AWS, GCP, Apache Airflow, Apache Spark, and Kafka to deepen my expertise and tackle complex data challenges.
 
-🖌️ As a seasoned graphic designer, I've woven pixels into visual stories, and as a skilled video editor, I've shaped narratives through the art of motion. My canvas extends beyond static frames into the dynamic realm of the web.
+While I’m dedicated to growing in the data domain, I continue to pursue freelance projects in graphic design, UI/UX, and video editing.
 
-💡 Currently immersing myself in the world of frontend web development, where design meets functionality. Armed with skills in Adobe Creative Suite and a love for UI/UX, I'm on a journey to build seamless, visually appealing web experiences.
+🔹 Skills:
+- Data Engineering & Analysis: SQL, NoSQL, Python, NumPy, Pandas, Seaborn, Matplotlib
+- Business Intelligence: Excel, Power BI, Looker
+- Ongoing Learning: Snowflake, AWS, GCP, Apache Airflow, Apache Spark, Kafka
 
-🚀 Skills:
-
-Graphic Design: Adobe Photoshop, Illustrator, XD
-Video Editing: Premiere Pro, After Effects
-Frontend: HTML, CSS, JavaScript
-UI/UX Design: Figma
-
-🌐 Projects:
-
-Coming Soon !!
-
-📚 Learning:
-Exploring the latest in frontend frameworks and constantly evolving to stay at the forefront of design and technology. (for now)
+🔹 Freelance Expertise:
+- Graphic Design
+- UI/UX Design
+- Video Editing
+- 
+Let’s connect and explore how we can leverage data to drive impactful decisions! 🌟
